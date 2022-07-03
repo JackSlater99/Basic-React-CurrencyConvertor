@@ -6,7 +6,6 @@ A currency converter that provides you the latest exchange rates using the follo
 ### Example :
 
 GBP to USD
-
 <br />
 ![image](https://user-images.githubusercontent.com/101419891/177059132-f775cbd8-811e-4116-a767-23d4ac44fa81.png)
 
