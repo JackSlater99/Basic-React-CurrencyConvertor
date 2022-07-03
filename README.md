@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the app in the brows
 The page will reload if you make edits. You will also see any lint errors in the console.
 
 
-## Guide to Changing API :
+## Guide to Change API :
 
 The API being used for the app can easily be switched out for any other API which uses the following or similar format: 
 ```
