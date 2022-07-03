@@ -28,3 +28,17 @@ Open [http://localhost:3000](http://localhost:3000) to view the app in the brows
 <br />
 
 The page will reload if you make edits. You will also see any lint errors in the console.
+
+## Guide to Changing API :
+
+The API being used for the app can easily be switched out for any other API using the same object format - {AED: 4.43, AFN: 108.06, ALL: 137.52, AMD: 491.01, ...}
+
+Change url variable to your API URL:
+```
+const url = 'Your API URL Here'
+```
+
+Setting object location for Exchange Rates within your API:
+```
+setExchangeRates(data.<Object Location>)
+```
