@@ -3,9 +3,10 @@
 A currency converter that provides you the latest exchange rates using the following API: https://www.exchangerate-api.com/
 
 
-### Example:
+### Example :
 
 GBP to USD
+
 <br />
 ![image](https://user-images.githubusercontent.com/101419891/177059132-f775cbd8-811e-4116-a767-23d4ac44fa81.png)
 
@@ -29,9 +30,11 @@ Open [http://localhost:3000](http://localhost:3000) to view the app in the brows
 
 The page will reload if you make edits. You will also see any lint errors in the console.
 
+
 ## Guide to Changing API :
 
-The API being used for the app can easily be switched out for any other API using the same object format - {AED: 4.43, AFN: 108.06, ALL: 137.52, AMD: 491.01, ...}
+The API being used for the app can easily be switched out for any other API using the same object format - 
+{AED: 4.43, AFN: 108.06, ALL: 137.52, AMD: 491.01, ...}
 
 Change url variable to your API URL:
 ```
