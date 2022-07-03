@@ -32,8 +32,10 @@ The page will reload if you make edits. You will also see any lint errors in the
 
 ## Guide to Changing API :
 
-The API being used for the app can easily be switched out for any other API which uses the following or similar format - 
+The API being used for the app can easily be switched out for any other API which uses the following or similar format: 
+```
 {AED: 4.43, AFN: 108.06, ALL: 137.52, AMD: 491.01, ...}
+```
 
 Change url variable to your API URL:
 ```
